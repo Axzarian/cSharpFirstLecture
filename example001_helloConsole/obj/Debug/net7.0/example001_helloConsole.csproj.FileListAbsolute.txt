@@ -1,0 +1,15 @@
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.exe
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.deps.json
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.runtimeconfig.json
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.dll
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.pdb
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.csproj.AssemblyReference.cache
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.AssemblyInfoInputs.cache
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.AssemblyInfo.cs
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.dll
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\refint\example001_helloConsole.dll
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.pdb
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.genruntimeconfig.cache
+C:\Users\Алексей Михеев\Documents\programming\cSharp\firstLecture\example001_helloConsole\obj\Debug\net7.0\ref\example001_helloConsole.dll
